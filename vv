@@ -1,0 +1,1 @@
+vmess = 34.92.171.120:14120, method=chacha20-ietf-poly1305, password=f0c25934-2305-486b-b55b-6a25145290da, fast-open=true, udp-relay=true, tag=HK
